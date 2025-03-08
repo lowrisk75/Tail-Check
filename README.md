@@ -13,9 +13,23 @@
 
 
 ---
+# Tail-Check
+
+<a href="https://www.youtube.com/@connectedsecure">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Connected Secure YouTube Channel" width="250"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/SecureConnected">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Connected Secure Twitter" width="220"/>
+</a>
+
+<br><br>
+<img src="https://yt3.googleusercontent.com/bDz3R9hylXEGAKkSo-JeZkvICPpRLLTW2CNO0h_59w8y67g4lG5lrPUkaRXvwbC9dlopdxIx=s900-c-k-c0x00ffffff-no-rj" alt="Connected Secure Logo" width="150"/>
+
+---
 
 ## Overview
-Tail-Check is a comprehensive, script-based utility meticulously designed to streamline Tailscale management across Proxmox VE containers. Developed by Kevin from Connected Secure, this tool addresses the complexity of maintaining Tailscale installations and configurations across multiple containers by providing an intuitive management interface that automates the entire process from scanning to configuration.
+Tail-Check is a comprehensive, script-based utility designed to streamline Tailscale management across Proxmox VE containers. Developed by Kevin from Connected Secure, this tool addresses the complexity of maintaining Tailscale installations and configurations across multiple containers by providing an intuitive management interface that automates the entire process from scanning to configuration.
 
 ## Detailed Features
 
@@ -56,6 +70,7 @@ Tail-Check is a comprehensive, script-based utility meticulously designed to str
 - SSH access configured for containers (optional, but recommended)
 
 ### Detailed Installation Steps
+```bash
 # 1. Connect to your Proxmox host via SSH
 ssh root@your-proxmox-host
 
@@ -73,7 +88,7 @@ chmod +x libs/*.sh
 
 # 6. Run the script
 ./tail-check.sh
-
+```
 
 ### Configuration Options
 The tool can be configured through the interactive menu or by editing the `config.json` file:
