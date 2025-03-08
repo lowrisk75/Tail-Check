@@ -1,17 +1,16 @@
 # Tail-Check
 
-<div align="center">
-    <h2>Connected Secure</h2>
-    <p>The ultimate resource for IT, networking, and renewable energy solutions</p>
-    
-    <a href="https://www.youtube.com/@connectedsecure">
-        <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" width="250"/>
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://x.com/SecureConnected">
-        <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="220"/>
-    </a>
-</div>
+<a href="https://www.youtube.com/@connectedsecure">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Connected Secure YouTube Channel" width="250"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/SecureConnected">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Connected Secure Twitter" width="220"/>
+</a>
+
+<br><br>
+<img src="https://yt3.googleusercontent.com/bDz3R9hylXEGAKkSo-JeZkvICPpRLLTW2CNO0h_59w8y67g4lG5lrPUkaRXvwbC9dlopdxIx=s900-c-k-c0x00ffffff-no-rj" alt="Connected Secure Logo" width="150"/>
+
 
 ---
 
