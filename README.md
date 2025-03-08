@@ -56,7 +56,6 @@ Tail-Check is a comprehensive, script-based utility meticulously designed to str
 - SSH access configured for containers (optional, but recommended)
 
 ### Detailed Installation Steps
-```bash
 # 1. Connect to your Proxmox host via SSH
 ssh root@your-proxmox-host
 
@@ -69,9 +68,12 @@ cd Tail-Check
 # 4. Make the script executable
 chmod +x tail-check.sh
 
-# 5. Run the script
+# 5. Make all library scripts executable
+chmod +x libs/*.sh
+
+# 6. Run the script
 ./tail-check.sh
-```
+
 
 ### Configuration Options
 The tool can be configured through the interactive menu or by editing the `config.json` file:
